@@ -1,2 +1,2 @@
 # MundoX_UI_VR
-Repositorio contenedor del nuevo UI para el proyecto de CENTRO MUNDO X UNIMET
+Repositorio contenedor para las interacciones del recorrido y UI del Mundo X UNIMET
